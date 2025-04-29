@@ -57,8 +57,8 @@ This Power BI dashboard empowers restaurant managers and stakeholders with actio
 
 Feel free to fork, clone, or reach out for collaboration!
 
-**Author:** Shivanshi Nigam  
-**LinkedIn:** https://www.linkedin.com/in/shivanshinigam/
+**Author:** Asad Khan  
+**LinkedIn:** linkedin.com/in/asad-khan-0a526225b
 
 ---
 
